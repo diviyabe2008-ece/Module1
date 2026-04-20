@@ -16,6 +16,5 @@ print('a')
 ## Output
 <img width="869" height="140" alt="image" src="https://github.com/user-attachments/assets/9f95274d-a5f8-4c73-b927-058738b6bb03" />
 
-
 ## Result
 Thus , the program has been executed succesfully.
